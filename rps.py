@@ -33,3 +33,6 @@ def gameround():
             print("\nBeen nice playing with you, partner")
             break   
         
+if __name__=="__main__":
+    print("Would you like to play a game...?")
+    gameround()        
